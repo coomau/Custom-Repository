@@ -6,7 +6,7 @@ layout: default
 # This is a big header
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="Custom-Repository/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 ## About This Assignment
 
@@ -14,11 +14,11 @@ This website is the presentation of an analysis of how pre‑course instructiona
 The analysis considers both the potential benefits and limitations of pre‑course videos.
 
 ## Images and Graphs
-<img src="<custom-path>/static/imgs/1e12b4d6-81ae-4fc5-a29e-899222794243.png"  width="500"/>
+<img src="Custom-Repository/static/imgs/1e12b4d6-81ae-4fc5-a29e-899222794243.png"  width="500"/>
 
-<img src="<custom-path>/static/imgs/6584be43-b023-434e-b74b-639dea39f42c.png"  width="500"/>
+<img src="Custom-Repository/static/imgs/6584be43-b023-434e-b74b-639dea39f42c.png"  width="500"/>
 
-<img src="<custom-path>/static/imgs/e0d4bea4-6876-4f9a-90f6-f28ec11dc74c.png"  width="500"/>
+<img src="Custom-Repository/static/imgs/e0d4bea4-6876-4f9a-90f6-f28ec11dc74c.png"  width="500"/>
 
 ## Final Conclusions
 
